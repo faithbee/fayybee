@@ -9,7 +9,7 @@ I'm an aspiring Front-End Developer currently building skills in HTML, CSS, Java
 - 🌱 Currently learning: Front end-development and Python programming
 - 🔭 Working on: A personal prtfolio website
 - 🌍 Languages: HTML, CSS, JavaScript, Python and English(fluent)
-- 📫 How to reach me: 
+- 📫 How to reach me: https://www.linkedin.com/in/faith-bako-750bb3284/
 - ⚡ Fun fact: I love watching movies, learning new things and learning a new language
 
 
@@ -35,7 +35,7 @@ I'm an aspiring Front-End Developer currently building skills in HTML, CSS, Java
 
 
 
-- **[LinkedIn]**(your_linkedin_profile_link)
+- **[LinkedIn]**[(your_linkedin_profile_link)](https://www.linkedin.com/in/faith-bako-750bb3284/)
 
 
 
